@@ -456,3 +456,12 @@
     letter-spacing: 1px;
     box-shadow: none;
 }
+
+
+.row.g-3 {
+    justify-content: space-evenly;
+}
+
+.row.g-5{
+    justify-content: center;
+}
